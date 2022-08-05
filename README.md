@@ -1,6 +1,7 @@
 ## Welcome
 <p>
 I’m @Tomix257
+<p> 
 I use Python, Lua and GDScript
   </a>
   <a target="_blank" href="https://https://github.com/Tomix257">
@@ -14,6 +15,5 @@ I use Python, Lua and GDScript
         <img height="191em" src="http://github-readme-streak-stats.herokuapp.com/?user=Tomix257&theme=react" alt="My current streak">
         <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomix257&layout=compact&theme=react&hide=css,html&langs_count=8" alt="My top languages">
         <!-- <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tomix257&theme=nord_dark" alt="My languages stats"> -->
-        <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Tomix257&theme=github&bg_color=20232a&line=2d4854&point=56bcd9&color=ffffff" alt="My activity graph">
     </a>
 </div>
